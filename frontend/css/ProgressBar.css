@@ -1,0 +1,17 @@
+ #barProgress {
+    display: none;
+  }
+  
+  #avatar {
+    display: none;
+  }
+
+  #cliclLoad{
+      display: none;
+  }
+  
+ #load {
+ 	cursor:pointer;
+	color:#78B8FF;	
+}
+
